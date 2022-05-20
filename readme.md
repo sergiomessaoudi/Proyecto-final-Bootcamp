@@ -6,7 +6,7 @@
 ## Introducción:
 
 En este proyecto, me propongo realizar un análisis de diferentes realidades sociales mediante el estudio de datos 
-en una muestra de 20 paises
+en una muestra de 20 paises.
 La motivación de este proyecto es analizar diversos factores macroeconómicos de distintas regiones alrededor del mundo para así ver como se encuentran en relación a otros países de diferente zona geográfica.
 
 Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la escuela tecnológica Ironhack.
@@ -23,12 +23,14 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 
 ## Indicadores demográficos estudiados
 
-1.    Apoyo Social                             6.   Esperanza de vida
-2.    Percepción de la corrupción              7.   Sanidad
-3.    Libertad                                 8.   Internet
-4.    Generosidad                                   
-                        
-
+1.   Apoyo Social.                             
+2.   Percepción de la corrupción .             
+3.   Libertad.                                
+4.   Generosidad.                                   
+5.   Esperanza de vida. 
+6.   Esperanza de vida.
+7.   Sanidad.
+8.   Internet.
 ## Entregables
 
 El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente  [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportPresentacion/HappinessRep?publish=yes)
