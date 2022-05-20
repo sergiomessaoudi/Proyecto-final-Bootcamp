@@ -28,9 +28,8 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 3.   Libertad.                                
 4.   Generosidad.                                   
 5.   Esperanza de vida. 
-6.   Esperanza de vida.
-7.   Sanidad.
-8.   Internet.
+6.   Sanidad.
+7.   Internet.
 ## Entregables
 
 El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente  [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportPresentacion/HappinessRep?publish=yes)
