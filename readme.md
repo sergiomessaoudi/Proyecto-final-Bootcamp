@@ -11,7 +11,7 @@ La motivación de este proyecto es analizar diversos factores macroeconómicos d
 
 Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la escuela tecnológica Ironhack.
 
-## Objetivos:
+## Objetivos
 
 - Explorar, limpiar y crear un dashboard en Tableau con la representación de los datos obtenidos.
 
@@ -26,12 +26,12 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente link [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportTerminado/HappinessRep?publish=yes)
 
 
-## Fuentes de datos utilizadas:
+## Fuentes de datos utilizadas
 
 - Kaggle: https://www.kaggle.com/datasets/mathurinache/world-happiness-report/
 - Datos del banco mundial: https://databank.bancomundial.org/savedreports# 
 
-## Tecnologías utilizadas:
+## Tecnologías utilizadas
 
 ### Pandas: https://www.pandas.pydata.org
 ### Python: https://www.python.org
