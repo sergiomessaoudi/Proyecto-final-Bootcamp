@@ -19,7 +19,15 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 
 - Observar que consecuencias trajo la pandemia de Covid de 2019 y sus indicadores.
     
-- Realizar unas conclusiones generales para estos países y los desafíos a los que se enfrentan.
+- Realizar unas conclusiones generales para estos países y los desafíos a los que se enfrentan
+
+## Indicadores demográficos estudiados
+
+1.    Apoyo Social                             6.   Esperanza de vida
+2.    Percepción de la corrupción              7.   Sanidad
+3.    Libertad                                 8.   Internet
+4.    Generosidad                                   
+                        
 
 ## Entregables
 
