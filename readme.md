@@ -42,7 +42,7 @@ El dashboard final se puede consultar en la pagina web de Tableau Public en el s
 
 ## Tecnologías utilizadas
 
-### Pandas: https://www.pandas.pydata.org
-### Python: https://www.python.org
-### Excell: https://www.excell.com
-### Tableau: https://public.tableau.com/
+- Pandas: https://www.pandas.pydata.org
+- Python: https://www.python.org
+- Excell: https://www.excell.com
+- Tableau: https://public.tableau.com/
