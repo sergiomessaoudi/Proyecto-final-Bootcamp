@@ -23,7 +23,7 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 
 ## Entregables
 
-El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente link [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportTerminado/HappinessRep?publish=yes)
+El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente  [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportTerminado/HappinessRep?publish=yes)
 
 
 ## Fuentes de datos utilizadas
