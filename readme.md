@@ -1,6 +1,6 @@
 # World Happiness Report - Estudio sobre la felicidad
 
-![image](https://www.mcgill.ca/newsroom/files/newsroom/styles/medium_landscape__320/public/channels/image/happy-group.jpg?itok=sSZgdO8l)
+![image](https://conocedores.com/wp-content/uploads/2022/03/finlandia-paises-felices-mas-menos-18032022in1.webp)
 
 
 ## Introducción:
@@ -18,7 +18,7 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 -Analizar las tendencias que han ocurrido en los años 2015-2020 en los países citados.
 
 -Observar que consecuencias trajo la pandemia de Covid de 2019 y sus indicadores.
-
+    
 -Realizar unas conclusiones generales para estos países y los desafíos a los que se enfrentan.
 
 ## Entregables
