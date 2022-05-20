@@ -13,23 +13,23 @@ Este trabajo final se realiza dentro del Bootcamp de Análisis de datos de la es
 
 ## Objetivos:
 
--Explorar, limpiar y crear un dashboard en Tableau con la representación de los datos obtenidos.
+- Explorar, limpiar y crear un dashboard en Tableau con la representación de los datos obtenidos.
 
--Analizar las tendencias que han ocurrido en los años 2015-2020 en los países citados.
+- Analizar las tendencias que han ocurrido en los años 2015-2020 en los países citados.
 
--Observar que consecuencias trajo la pandemia de Covid de 2019 y sus indicadores.
+- Observar que consecuencias trajo la pandemia de Covid de 2019 y sus indicadores.
     
--Realizar unas conclusiones generales para estos países y los desafíos a los que se enfrentan.
+- Realizar unas conclusiones generales para estos países y los desafíos a los que se enfrentan.
 
 ## Entregables
 
-El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente link [link](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportTerminado/HappinessRep?publish=yes)
+El dashboard final se puede consultar en la pagina web de Tableau Public en el siguiente link [enlace](https://public.tableau.com/app/profile/sergio.messaoudi/viz/ProyectoHappinessReportTerminado/HappinessRep?publish=yes)
 
 
 ## Fuentes de datos utilizadas:
 
--Kaggle: https://www.kaggle.com/datasets/mathurinache/world-happiness-report/
--Datos del banco mundial: https://databank.bancomundial.org/savedreports# 
+- Kaggle: https://www.kaggle.com/datasets/mathurinache/world-happiness-report/
+- Datos del banco mundial: https://databank.bancomundial.org/savedreports# 
 
 ## Tecnologías utilizadas:
 
